@@ -1,0 +1,4 @@
+pojemnosc dysku: 250,79 GB
+ilosc pamieci RAM: 4 GB
+rodzaj i predkosc procesora: Intel Core i 5 ; 1,6 GHz
+system: 64 bitowy
